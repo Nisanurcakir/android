@@ -1,0 +1,21 @@
+{"kitaplar":[
+	{
+	"kitapId":"1",
+	"kitapAdi":"Lontano",
+	"kitapYazari":"Jean Christophe Grange",
+	"kitapSayfaSayisi":"656",
+	"kitapYayinEvi":"Doğan Kitap",
+	"kitapBaskiYili":"2016",
+	"kitapKonu":"Jean-Chrıstophe Grangé'den Kongo-Fransa-Belçika üçgeninde tüyler ürpertici, soluk soluğa bir kovalamaca."
+	
+	},
+	{
+	"kitapId":"2",
+	"kitapAdi":"Kafes",
+	"kitapYazari":"Josh Malerman",
+	"kitapSayfaSayisi":"238",
+	"kitapYayinEvi":"İthaki Yayınları",
+	"kitapBaskiYili":"2016",
+	"kitapKonu":"Görülmemesi gereken korkunç bir şey… Ona atılan bir bakış kişiyi ölümcül bir deliliğe sürüklüyor. Ne olduğunu ve nereden geldiğini ise kimse bilmiyor."
+	}
+]}
